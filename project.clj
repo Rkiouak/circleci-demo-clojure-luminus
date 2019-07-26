@@ -1,4 +1,4 @@
-(defproject cci-demo-clojure "0.1.0-SNAPSHOT"
+(defproject circleci-protoc-test "0.1.0-SNAPSHOT"
 
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
